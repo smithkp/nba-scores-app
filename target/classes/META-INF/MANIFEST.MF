@@ -1,5 +1,7 @@
 Manifest-Version: 1.0
 Built-By: kyle
 Build-Jdk: 13.0.2
+Class-Path: lib/json-20180813.jar
+Main-Class: com.smith.scoresApp.App
 Created-By: Maven Integration for Eclipse
 
